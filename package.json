@@ -1,0 +1,14 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "De Asis Portfolio",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "author": "Mark Leo De Asis",
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^4.11.0"
+  }
+}
